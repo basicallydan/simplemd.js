@@ -1,4 +1,4 @@
-var parseMarkdown = require('./index');
+var parseMarkdown = require('./parseMarkdown');
 
 var testNum = 0;
 
