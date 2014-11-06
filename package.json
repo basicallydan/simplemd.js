@@ -1,0 +1,22 @@
+{
+  "name": "simplemd",
+  "version": "0.1.0",
+  "description": "A really simple, unfinished markdown parser I wrote for a job interview once. Supports Headers, Paragraphs and Links.",
+  "main": "parseMarkdown.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basicallydan/simplemd.js"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Dan Hough <dan@danhough.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basicallydan/simplemd.js/issues"
+  },
+  "homepage": "https://github.com/basicallydan/simplemd.js"
+}
