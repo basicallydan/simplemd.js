@@ -1,6 +1,6 @@
 {
   "name": "simplemd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A really simple, unfinished markdown parser I wrote for a job interview once. Supports Headers, Paragraphs and Links.",
   "main": "parseMarkdown.js",
   "scripts": {
